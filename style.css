@@ -17,3 +17,16 @@ body{
 h1{
     margin: 20px 0 0;
 }
+.game-container{
+    padding: 20px 30px;
+    position: relative;
+    margin: auto;
+    height: 350px;
+    width: 450px;
+}
+.figure-container{
+    fill: transparent;
+    stroke: #fff;
+    stroke-width: 4px;
+    stroke-linecap: round;
+}
